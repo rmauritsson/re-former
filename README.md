@@ -1,24 +1,22 @@
-# README
+## Re-Former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we build forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides, integrating a signup form and providing help if the user enters incorrect information.
 
-Things you may want to cover:
+## Tecnologies
 
-* Ruby version
+* Ruby
+* Ruby on Rails
 
-* System dependencies
+## Steps to install the app
 
-* Configuration
+* Clone the GitHub project
+* Open the project folder
+* Run bundle install and then bundle update
+* Run the rails db:migrate
+* Run the rails server
+* Start testing the forms
 
-* Database creation
+## Authors - click on the link below to see the authors' github
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* <a href="https://github.com/rmauritsson"> Github: Leonard Rwai Kanyesigye</a>
+* <a href="https://github.com/SofiBretz">Github: Sofia Barrantes</a>
