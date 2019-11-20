@@ -16,7 +16,7 @@ In this project we build forms, both using nearly-pure HTML and then graduating 
 * Run the rails server
 * Start testing the forms
 
-## Authors - click on the link below to see the authors' github
+## Authors 
 
 * <a href="https://github.com/rmauritsson"> Github: Leonard Rwai Kanyesigye</a>
 * <a href="https://github.com/SofiBretz">Github: Sofia Barrantes</a>
